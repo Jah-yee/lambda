@@ -1,5 +1,5 @@
 
-from env import Enviroment
+from env import Environment
 
 class Lambda:
 
